@@ -1,0 +1,12 @@
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\bin\Debug\netstandard2.0\Dal.deps.json
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\bin\Debug\netstandard2.0\Dal.dll
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\bin\Debug\netstandard2.0\Dal.pdb
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.csprojAssemblyReference.cache
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.csproj.CopyComplete
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.dll
+C:\Users\sona\Documents\GitHub\ReCapProject\Dal\obj\Debug\netstandard2.0\Dal.pdb

@@ -1,0 +1,13 @@
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\bin\Debug\gamepad1.exe.config
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\bin\Debug\gamepad1.exe
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\bin\Debug\gamepad1.pdb
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.csprojAssemblyReference.cache
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.Properties.Resources.resources
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.csproj.GenerateResource.cache
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.csproj.CoreCompileInputs.cache
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.exe
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.pdb
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.Form1.resources
+C:\Users\sona\source\repos\MVC\gamepad1\gamepad1\obj\Debug\gamepad1.csproj.CopyComplete
