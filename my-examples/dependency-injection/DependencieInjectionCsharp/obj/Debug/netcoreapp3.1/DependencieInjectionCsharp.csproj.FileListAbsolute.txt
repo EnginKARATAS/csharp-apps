@@ -1,0 +1,13 @@
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\bin\Debug\netcoreapp3.1\DependencieInjectionCsharp.exe
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\bin\Debug\netcoreapp3.1\DependencieInjectionCsharp.deps.json
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\bin\Debug\netcoreapp3.1\DependencieInjectionCsharp.runtimeconfig.json
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\bin\Debug\netcoreapp3.1\DependencieInjectionCsharp.runtimeconfig.dev.json
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\bin\Debug\netcoreapp3.1\DependencieInjectionCsharp.dll
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\bin\Debug\netcoreapp3.1\DependencieInjectionCsharp.pdb
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.csprojAssemblyReference.cache
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.AssemblyInfoInputs.cache
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.AssemblyInfo.cs
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.dll
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.pdb
+C:\Users\sona\Documents\GitHub\DependencieInjectionCsharp\DependencieInjectionCsharp\obj\Debug\netcoreapp3.1\DependencieInjectionCsharp.genruntimeconfig.cache
