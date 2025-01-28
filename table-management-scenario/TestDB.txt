@@ -1,0 +1,16 @@
+drop database Test
+create database Test
+use Test
+create table Musteri4(
+id int identity(1,1) primary key,
+adi varchar(20),
+soyadi varchar(40),
+bakiye float,
+ 
+);
+insert into Musteri4(adi,soyadi,bakiye) values ('engin','karatas',2000),
+('mehmet','momentum',3332),('dany','karatas',1700),('engin','karatas',2000),
+('mehmet','momentum',3332),('dany','karatas',1700),('engin','karatas',2000),
+('mehmet','momentum',3332),('dany','karatas',1700),('engin','karatas',2000),
+('mehmet','momentum',3332),('dany','karatas',1700),('engin','karatas',2000),
+('mehmet','momentum',3332),('dany','karatas',1700)
