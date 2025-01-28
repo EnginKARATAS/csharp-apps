@@ -1,0 +1,13 @@
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\bin\Debug\netcoreapp3.1\FunctionOverloading.exe
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\bin\Debug\netcoreapp3.1\FunctionOverloading.deps.json
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\bin\Debug\netcoreapp3.1\FunctionOverloading.runtimeconfig.json
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\bin\Debug\netcoreapp3.1\FunctionOverloading.runtimeconfig.dev.json
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\bin\Debug\netcoreapp3.1\FunctionOverloading.dll
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\bin\Debug\netcoreapp3.1\FunctionOverloading.pdb
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.csprojAssemblyReference.cache
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.AssemblyInfoInputs.cache
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.AssemblyInfo.cs
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.csproj.CoreCompileInputs.cache
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.dll
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.pdb
+C:\Users\sona\source\repos\FunctionOverloading\FunctionOverloading\obj\Debug\netcoreapp3.1\FunctionOverloading.genruntimeconfig.cache
