@@ -1,0 +1,7 @@
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\bin\Debug\COMStart2.exe.config
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\bin\Debug\COMStart2.exe
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\bin\Debug\COMStart2.pdb
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\obj\Debug\COMStart2.csprojAssemblyReference.cache
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\obj\Debug\COMStart2.csproj.CoreCompileInputs.cache
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\obj\Debug\COMStart2.exe
+C:\Users\sona\source\repos\embedded\COMStart2\COMStart2\obj\Debug\COMStart2.pdb

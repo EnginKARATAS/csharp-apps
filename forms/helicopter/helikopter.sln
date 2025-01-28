@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helikopter", "helikopter\helikopter.csproj", "{B7E99517-12B6-4967-A736-F2641762D867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E99517-12B6-4967-A736-F2641762D867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E99517-12B6-4967-A736-F2641762D867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E99517-12B6-4967-A736-F2641762D867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E99517-12B6-4967-A736-F2641762D867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DD2D61-0326-4D50-BD8F-95C1A9A0AEE7}
+	EndGlobalSection
+EndGlobal

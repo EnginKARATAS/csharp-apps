@@ -1,0 +1,7 @@
+C:\Users\sona\source\repos\PortNames\PortNames\bin\Debug\PortNames.exe.config
+C:\Users\sona\source\repos\PortNames\PortNames\bin\Debug\PortNames.exe
+C:\Users\sona\source\repos\PortNames\PortNames\bin\Debug\PortNames.pdb
+C:\Users\sona\source\repos\PortNames\PortNames\obj\Debug\PortNames.csprojAssemblyReference.cache
+C:\Users\sona\source\repos\PortNames\PortNames\obj\Debug\PortNames.csproj.CoreCompileInputs.cache
+C:\Users\sona\source\repos\PortNames\PortNames\obj\Debug\PortNames.exe
+C:\Users\sona\source\repos\PortNames\PortNames\obj\Debug\PortNames.pdb

@@ -1,0 +1,5 @@
+C:\Users\sona\source\repos\embedded\COMStart\COMStart\bin\Debug\netcoreapp3.1\COMStart.exe
+C:\Users\sona\source\repos\embedded\COMStart\COMStart\obj\Debug\netcoreapp3.1\COMStart.AssemblyInfoInputs.cache
+C:\Users\sona\source\repos\embedded\COMStart\COMStart\obj\Debug\netcoreapp3.1\COMStart.AssemblyInfo.cs
+C:\Users\sona\source\repos\embedded\COMStart\COMStart\obj\Debug\netcoreapp3.1\COMStart.csprojAssemblyReference.cache
+C:\Users\sona\source\repos\embedded\COMStart\COMStart\obj\Debug\netcoreapp3.1\COMStart.csproj.CoreCompileInputs.cache
