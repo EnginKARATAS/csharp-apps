@@ -1,0 +1,7 @@
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\bin\Debug\GameProject-v1.exe.config
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\bin\Debug\GameProject-v1.exe
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\bin\Debug\GameProject-v1.pdb
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\obj\Debug\GameProject-v1.csprojAssemblyReference.cache
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\obj\Debug\GameProject-v1.csproj.CoreCompileInputs.cache
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\obj\Debug\GameProject-v1.exe
+C:\Users\sona\Documents\GitHub\GameProject-v1\GameProject-Csharp\GameProject-v1\obj\Debug\GameProject-v1.pdb

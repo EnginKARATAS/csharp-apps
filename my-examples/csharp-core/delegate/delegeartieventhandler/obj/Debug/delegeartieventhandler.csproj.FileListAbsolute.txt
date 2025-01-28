@@ -1,0 +1,6 @@
+C:\Users\sona\source\repos\delegate\delegeartieventhandler\bin\Debug\delegeartieventhandler.exe.config
+C:\Users\sona\source\repos\delegate\delegeartieventhandler\bin\Debug\delegeartieventhandler.exe
+C:\Users\sona\source\repos\delegate\delegeartieventhandler\bin\Debug\delegeartieventhandler.pdb
+C:\Users\sona\source\repos\delegate\delegeartieventhandler\obj\Debug\delegeartieventhandler.csproj.CoreCompileInputs.cache
+C:\Users\sona\source\repos\delegate\delegeartieventhandler\obj\Debug\delegeartieventhandler.exe
+C:\Users\sona\source\repos\delegate\delegeartieventhandler\obj\Debug\delegeartieventhandler.pdb

@@ -1,0 +1,7 @@
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\bin\Debug\Linq-Advanced-Csharp.exe.config
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\bin\Debug\Linq-Advanced-Csharp.exe
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\bin\Debug\Linq-Advanced-Csharp.pdb
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\obj\Debug\Linq-Advanced-Csharp.csprojAssemblyReference.cache
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\obj\Debug\Linq-Advanced-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\obj\Debug\Linq-Advanced-Csharp.exe
+C:\Users\sona\Documents\GitHub\Linq-Advanced-Csharp\Linq-Advanced-Csharp\obj\Debug\Linq-Advanced-Csharp.pdb

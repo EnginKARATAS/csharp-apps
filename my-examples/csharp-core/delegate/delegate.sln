@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate", "delegate\delegate.csproj", "{6064C7B0-033E-45EF-8B32-4D0F865782A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegeartieventhandler", "delegeartieventhandler\delegeartieventhandler.csproj", "{04C22CF0-F276-4D9A-B227-45E5513AC35C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6064C7B0-033E-45EF-8B32-4D0F865782A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6064C7B0-033E-45EF-8B32-4D0F865782A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6064C7B0-033E-45EF-8B32-4D0F865782A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6064C7B0-033E-45EF-8B32-4D0F865782A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C22CF0-F276-4D9A-B227-45E5513AC35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C22CF0-F276-4D9A-B227-45E5513AC35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C22CF0-F276-4D9A-B227-45E5513AC35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C22CF0-F276-4D9A-B227-45E5513AC35C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E12A15-9F2A-49B6-8ABB-651245D48C2B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\sona\source\repos\delegate\delegate\obj\Debug\delegate.csprojAssemblyReference.cache
+C:\Users\sona\source\repos\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+C:\Users\sona\source\repos\delegate\delegate\bin\Debug\@delegate.exe.config
+C:\Users\sona\source\repos\delegate\delegate\bin\Debug\@delegate.exe
+C:\Users\sona\source\repos\delegate\delegate\bin\Debug\@delegate.pdb
+C:\Users\sona\source\repos\delegate\delegate\obj\Debug\@delegate.exe
+C:\Users\sona\source\repos\delegate\delegate\obj\Debug\@delegate.pdb
